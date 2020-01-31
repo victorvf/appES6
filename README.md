@@ -31,3 +31,8 @@ services:
     ports: 
       - "8080:8080"
 ```
+#### Consumir APP
+- _git clone https://github.com/victorvf/appES6.git_
+- __criar__: "_Dockefile_" e "_docker-compose.yml_"
+- __rodar__: "_docker-compose up_"
+- __acessar__: localhost:8080
